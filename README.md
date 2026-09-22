@@ -1,42 +1,27 @@
-<h1 align="center">Hi, I'm Mohammad Taqi Khan</h1>
+<h1 align="center">Hi 👋, I'm Taqi Khan</h1>
 
 <p align="center">
-  Software Development Engineer · Backend-focused Full-Stack Engineer
-</p>
-
-<p align="center">
-  Building reliable Node.js systems, data pipelines, and customer-facing commerce workflows.
-</p>
-
-<p align="center">
-  <a href="https://taqi.in/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/taqi20">LinkedIn</a> ·
-  <a href="mailto:mohammadtaqi5626@gmail.com">Email</a>
+  Software Development Engineer · Backend / Full-Stack Engineer
 </p>
 
 ---
 
 ## About
 
-I'm a backend-focused software engineer currently working as an SDE Intern at Fynd. I build and ship Node.js services, API integrations, scheduled workflows, and data-processing systems for e-commerce use cases.
-
-My production work includes a migration pipeline for **5M+ customer records**, an order-tracking system processing **15K+ orders daily**, production alerting systems, and customer communication workflows. I also build full-stack products with React, TypeScript, PostgreSQL, and MongoDB.
-
-## Current Focus
-
-- Production backend systems with Node.js and TypeScript
-- API integrations, webhooks, and serverless workflows
-- Data pipelines, concurrency controls, retries, and failure handling
-- PostgreSQL, MongoDB, and system-design fundamentals
-- React for backend-heavy full-stack applications
+Backend software engineer currently working at Fynd, with experience in JavaScript, TypeScript, Node.js, React, Next.js, and databases. Builds dependable APIs, asynchronous workflows, and full-stack applications with clean, maintainable systems.
 
 ## Highlights
 
-- Shipped a customer migration pipeline for **5M+ profiles, addresses, and reward balances**
-- Built a serverless order-tracking system processing **15K+ orders daily**
+- Built and deployed a customer migration pipeline for **5M+ profiles, addresses, and reward balances**
+
+- Built and deployed a serverless order-tracking system, **currently running in production** and processing **15K+ orders daily**
+
 - Built multiple production alerting systems, including cross-service consistency checks
+
 - Contributed production code across **4 client projects**, including delivery-partner assignment and refund-initiation extensions
+
 - Built dynamic customer email flows and recurring data-export automation
+
 - Peak LeetCode rating: **1529**
 
 ## Tech Stack
